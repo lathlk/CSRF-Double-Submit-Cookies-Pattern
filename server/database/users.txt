@@ -1,0 +1,4 @@
+<?php return array (
+  'username' => 'password',
+  'username1' => 'password1',
+);
