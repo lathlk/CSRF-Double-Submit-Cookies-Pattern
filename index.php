@@ -54,9 +54,6 @@
                                 </div>
                             </form>
                         </div>
-                        <div class="logi-forgot text-right mt-2">
-                            <a href="#">Logout </a>
-                        </div>
                     </div>
                 </div>
             </div>
